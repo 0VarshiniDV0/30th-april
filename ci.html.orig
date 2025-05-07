@@ -5,6 +5,13 @@
 #para1{
 	color:blue;
 }
+<<<<<<< HEAD
+
+
+
+
+
+
 <body>
 <h2>First Page</h2>
 <p id="para1">This is first paragraph</p>
@@ -13,6 +20,10 @@
 <h2>Second page</h2>
 <p class="para-style">This is first paragraph</p>
 <p class="para-style">This is second paragraph</p>
+
+</body>
+</html>
+=======
 #para2{
  color:green;
  }
@@ -21,6 +32,5 @@
  font-family:Airal,sans-serif;
  }
  </style>
- </body>
  </head>
- </html>
+>>>>>>> test
